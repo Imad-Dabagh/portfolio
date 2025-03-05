@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Blogging Website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a blogging website where users share blogs.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+
+]
