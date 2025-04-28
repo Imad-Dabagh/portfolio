@@ -37,7 +37,7 @@ export const Contact = () => {
   };
 
   return (
-    <section className={styles.container}>
+    <section className={styles.container} id="contact">
       <h2 className={styles.title}>Contact Me</h2>
       <form className={styles.form} onSubmit={handleSubmit}>
         <input
